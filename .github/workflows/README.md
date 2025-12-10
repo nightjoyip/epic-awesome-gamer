@@ -1,4 +1,4 @@
-# Epic Awesome Gamer - GitHub Actions 工作流
+# Epic Awesome Gamer - GitHub Actions 工作流-2025-12-10
 
 > ⚡ **快速开始**：按照下方教程，从创建仓库到首次运行只需10分钟！
 
